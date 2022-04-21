@@ -6,7 +6,7 @@
 
 English Version | [中文版本](zh_cn/README.md) | [繁體中文版本](zh_tw/README.md)
 
-This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st. 
+This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the April 21st 2022 but the idea is that we take 90 days which just so happens to be April 21st to July 21st. 
 
 The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources. 
 
@@ -16,7 +16,7 @@ This will **not cover all things** "DevOps" but it will cover the areas that I f
 
 ## Progress 
 
--  ♾️ 1 > [Introduction](Days/day01.md)
+- [✔️] ♾️ 1 > [Introduction](Days/day01.md)
 
 ### What is and why do we use DevOps
 
